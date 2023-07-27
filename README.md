@@ -1,4 +1,4 @@
-## This is the repository forlotto-num-generator
+## This is the repository for lotto-num-generator
 
 - requirements
 > Django
